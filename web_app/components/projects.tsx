@@ -41,7 +41,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h2>Who we are ?</h2>
-                <p>Our projects have been brought to life with the assistance of a diverse group of skilled INPT students. These talented individuals have contributed their expertise, passion, and dedication to crafting innovative solutions that meet the needs of our clients and users.</p>
+                <p>Our projects have been brought to life with the assistance of a diverse group of skilled KIET students. These talented individuals have contributed their expertise, passion, and dedication to crafting innovative solutions that meet the needs of our clients and users.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   {/* <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
